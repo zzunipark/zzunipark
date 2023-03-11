@@ -38,7 +38,7 @@
 <hr>
 
 <p align="center">
-    <Strong>Things I'm using 🛠️</Strong><br>
+    <Strong>Things I'm using & operatable 🛠️</Strong><br>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
+        <img src="https://img.shields.io/badge/macOS Ventura-da914f?style=for-the-badge&logo=macOS&logoColor=white">
     </a>
     <br>
 </p>
