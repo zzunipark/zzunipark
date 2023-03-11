@@ -52,7 +52,13 @@
         <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/macOS Ventura-da914f?style=for-the-badge&logo=macOS&logoColor=white">
+        <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Ubuntu LTS-95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
     </a>
     <br>
 </p>
