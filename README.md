@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=C&logoColor=white">
-    <br>
+    <br><br>
 </p>
 
 <p align="center">
@@ -32,5 +32,5 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    <br>
+    <br><br><br>
 </p>
