@@ -12,7 +12,7 @@
 
 <p align="center">
     - Idiot<br>
-    - Hate math
+    - Always Sleepy<br>
     <br>
 </p>
 
