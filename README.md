@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ubuntu LTS-95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Ubuntu LTS-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
     </a>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
