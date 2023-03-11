@@ -78,6 +78,9 @@
         <img src="https://img.shields.io/badge/Macbook Pro 2021 / 16 inch M1 Pro-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/iPhone 13 Pro / Graphite 128GB-000000?style=for-the-badge&logo=Apple&logoColor=white">
+    </a><br>
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Mac Mini 2020 / M1-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
@@ -90,10 +93,10 @@
         <img src="https://img.shields.io/badge/Apple Watch Series 7 / 41mm GPS-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Airpods Pro 2019-000000?style=for-the-badge&logo=Apple&logoColor=white">
+        <img src="https://img.shields.io/badge/Magic Keyboard for iPad Air / White-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Magic Keyboard for iPad Air / White-000000?style=for-the-badge&logo=Apple&logoColor=white">
+        <img src="https://img.shields.io/badge/Airpods Pro 2019-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <br>
 </p>
