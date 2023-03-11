@@ -1,6 +1,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-<p style="text-align:center">프론트만 하다가 백엔드 하니까 머리 터지는 민준이의 깃허브에 오신걸 환영합니다.</p>
+<p align="center">
+    <Strong>프론트만 하다가 백엔드 하니깐 머리 터지는 민준이의 깃허브에 오신걸 환영합니다.</Strong>
+</p>
 
 <h2 style="text-align:center">About Me</h2>
 
