@@ -53,3 +53,14 @@
     </a>
     <br>
 </p>
+
+<hr>
+
+<p align="center">
+    <Strong>My Apple Farm 🧑🏻‍💻</Strong><br>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white">
+    <br>
+</p>
