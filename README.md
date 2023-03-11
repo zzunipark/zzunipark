@@ -49,16 +49,16 @@
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
+        <img src="https://img.shields.io/badge/Windows GUI-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
     </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
+    <a href="#" target="_blank"
+        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ubuntu LTS-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Ubuntu GUI/CLI-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
+        <img src="https://img.shields.io/badge/Debian CLI-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
     </a>
     <br>
 </p>
