@@ -70,7 +70,7 @@
 <hr>
 
 <p align="center">
-    <Strong>My Apple Farm 🧑🏻‍💻</Strong><br>
+    <Strong>My Apple Farm 🧑🏻‍💻<sup>자랑하는거 맞음</sup></Strong><br>
 </p>
 
 <p align="center">
