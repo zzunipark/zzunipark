@@ -53,7 +53,7 @@
     </a>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
-    </a>
+    </a><br>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Ubuntu LTS-95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
     </a>
