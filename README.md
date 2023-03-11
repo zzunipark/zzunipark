@@ -60,6 +60,9 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Debian CLI-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
     </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Raspbian GUI/CLI-A22846?style=for-the-badge&logo=Raspbian&logoColor=white">
+    </a>
     <br>
 </p>
 
@@ -99,7 +102,7 @@
         <img src="https://img.shields.io/badge/iPad Air 5th Generation / 10.9 inch M1-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/iPad 9th Generation / 10.9 inch A13 Bionic-000000?style=for-the-badge&logo=Apple&logoColor=white">
+        <img src="https://img.shields.io/badge/iPad 9th Generation / 10.2 inch A13 Bionic-000000?style=for-the-badge&logo=Apple&logoColor=white">
     </a><br>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Apple Watch Series 7 / 41mm GPS-000000?style=for-the-badge&logo=Apple&logoColor=white">
