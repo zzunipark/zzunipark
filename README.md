@@ -8,7 +8,7 @@
 
 - Idiot
 - GSM 07
-- Hate math
+- Hate mathd
 
 # Tech Stack
 
