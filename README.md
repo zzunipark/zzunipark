@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/Debian CLI-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Raspbian GUI/CLI-A22846?style=for-the-badge&logo=Raspbian&logoColor=white">
+        <img src="https://img.shields.io/badge/Raspbian GUI/CLI-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
     </a>
     <br>
 </p>
