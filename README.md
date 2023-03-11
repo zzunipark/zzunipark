@@ -4,11 +4,11 @@
     <Strong>프론트만 하다가 백엔드 하니깐 머리 터지는 민준이의 깃허브에 오신걸 환영합니다.</Strong>
 </p>
 
-<h2 style="text-align:center">About Me</h2>
+<h2 align="center">About Me</h2>
 
-- Idiot
-- GSM 07
-- Hate mathd
+<p align="center">
+    - Idiot
+</p>
 
 # Tech Stack
 
