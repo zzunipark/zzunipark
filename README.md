@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-    <Strong>About Me 😗</Strong><br>
+    <Strong><br>About Me 😗</Strong><br>
 </p>
 
 <p align="center">
