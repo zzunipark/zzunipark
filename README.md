@@ -4,6 +4,8 @@
     <Strong>프론트만 하다가 백엔드 하니깐 머리 터지는 민준이의 깃허브에 오신걸 환영합니다.</Strong>
 </p>
 
+<hr>
+
 <p align="center">
     <Strong>About Me 😗</Strong><br>
 </p>
@@ -27,6 +29,8 @@
     <br>
 </p>
 
+<hr>
+
 <p align="center">
     <Strong>Things I'm using 🛠️</Strong><br>
 </p>
@@ -36,6 +40,8 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <br>
 </p>
+
+<hr>
 
 <p align="center">
     <Strong>Contact Me 🥸</Strong><br>
