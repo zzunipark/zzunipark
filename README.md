@@ -10,7 +10,7 @@
 
 <p align="center">
     - Idiot<br>
-    - Hate math<br>
+    - Hate math
     <br>
 </p>
 
