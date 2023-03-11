@@ -48,6 +48,12 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Windows 11-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/macOS Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white">
+    </a>
     <br>
 </p>
 
