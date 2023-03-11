@@ -11,7 +11,6 @@
 <p align="center">
     - Idiot<br>
     - Hate math<br>
-    <br>
 </p>
 
 <p align="center">
