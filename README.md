@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-    - Idiot<br>
     - Always Sleepy<br>
+    - GSM 07<br>
+    - Full of passion, but idiot.<br>
     <br>
 </p>
 
