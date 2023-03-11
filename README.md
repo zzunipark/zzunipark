@@ -14,6 +14,8 @@
     <br>
 </p>
 
+<hr>
+
 <p align="center">
     <Strong>Things I'm learning 😎</Strong><br>
 </p>
