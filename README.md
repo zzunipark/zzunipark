@@ -23,9 +23,15 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=C&logoColor=white">
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=C&logoColor=white">
+    </a>
     <br>
 </p>
 
@@ -35,9 +41,13 @@
     <Strong>Things I'm using 🛠️</Strong><br>
 </p>
 
-<p align="center">    
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<p align="center">
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    </a>
     <br>
 </p>
 
@@ -64,6 +74,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AppleTest-000000?style=for-the-badge&logo=Apple&logoColor=white">
+    <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Macbook Pro 2021 16-Inch M1 Pro-000000?style=for-the-badge&logo=Apple&logoColor=white">
+    </a>
     <br>
 </p>
