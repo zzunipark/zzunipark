@@ -4,7 +4,7 @@
 
 ### A normal student who likes to hang out and play
 
-# <style>text-align:center</style>About Me
+<h2 style="text-align:center">About Me</h2>
 
 - Idiot
 - GSM 07
