@@ -51,6 +51,9 @@
     <a href="https://www.instagram.com/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
+    <a href="https://www.discord.com/" target="_blank">
+        <img src="https://img.shields.io/badge/민준-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
     <br>
 </p>
 
