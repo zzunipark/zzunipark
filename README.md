@@ -30,8 +30,12 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    <a href="https://www.instagram.com/" target="_blank">    
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    </a>
     <br><br><br>
 </p>
 
@@ -40,7 +44,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.instagram.com/zzuni._m/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     <br><br><br>
 </p>
