@@ -7,10 +7,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-    - Idiot
+    - Idiot<br>
+    - Hate math<br>
 </p>
 
-# Tech Stack
+<h2 align="center">Tech Stacks</h2>
 
 - used as main<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
