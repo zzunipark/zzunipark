@@ -61,6 +61,6 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Appletest&logoColor=white">
+    <img src="https://img.shields.io/badge/AppleTest-000000?style=for-the-badge&logo=Apple&logoColor=white">
     <br>
 </p>
