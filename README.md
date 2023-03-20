@@ -31,6 +31,9 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=C&logoColor=white">
     </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    </a>
     <br>
 </p>
 
