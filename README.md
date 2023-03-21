@@ -55,6 +55,9 @@
     </a>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Windows GUI-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
+    </a><br>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/macOS/CLI-000000?style=for-the-badge&logo=macOS&logoColor=white">
     </a>
     <a href="#" target="_blank"
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
