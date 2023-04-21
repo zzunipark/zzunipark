@@ -2,13 +2,10 @@
   <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg" target="_blank">
     <img src="animation.svg" style="width: 100%;">
   </a>
-  <sub align="center">
-    위 애니메이션은 Chrome, Firefox 환경에 최적화되어 있답니다!
-  </sub>
 </div>
 
-
 # 
+<sub><sup>위 애니메이션은 Chrome, Firefox 브라우저에 최적화되어 있답니다!</sup></sub>
 
 <a href="https://www.instagram.com/zzunipark/" target="_blank">
   <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
