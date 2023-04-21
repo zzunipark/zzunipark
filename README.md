@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/zzunipark/zzunipark/blob/main/animation.svg">
+  <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg">
     <img src="welcome.svg" style="width: 100%;">
   </a>
 </div>
