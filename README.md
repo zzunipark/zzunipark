@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p style="text-align:center">Chrome & Firefox 환경에서 애니메이션이 잘 보인답니다!</p>
+<p align:"center">Chrome & Firefox 환경에서 애니메이션이 잘 보인답니다!</p>
 
 <h3 align="center"></h3>
 
