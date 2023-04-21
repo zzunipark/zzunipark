@@ -48,4 +48,4 @@
   
 </a>
 
-<sub><sup>PC의 라이트 테마 및 Chrome, Firefox 환경에 최적화되어 있답니다! 모바일 및 기타 브라우저는 정상적으로 표기되지 않을 수 있어요! 😅</sup></sub>
+<sub><sup>PC 환경에서의 라이트 테마 및 Chrome, Firefox 브라우저에 최적화되어 있답니다! 모바일 환경, 다크 테마 및 Chrome, Firefox 외 브라우저는 정상적으로 표기되지 않을 수 있어요! 😅</sup></sub>
