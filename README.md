@@ -1,12 +1,12 @@
 <div style="width: 100%; text-align: center;">
-  <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg">
+  <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg" target="_blank">
     <img src="animation.svg" style="width: 100%;">
   </a>
 </div>
 
 # 
 
-<a href="https://www.instagram.com/zzunipark/">
+<a href="https://www.instagram.com/zzunipark/" target="_blank">
   <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="#contact-me-on-민준#9965">
@@ -21,7 +21,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### 🧐 More About Me
-- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/">Gwangju Software Meister High School
+- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School
 - &nbsp; ✏️ &nbsp; I'm currently learning CLang
 - &nbsp; 🌱 &nbsp; I'm interested in HTML and CSS
 - &nbsp; 🐥 &nbsp; I'd like to be an early bird
