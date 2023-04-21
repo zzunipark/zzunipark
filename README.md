@@ -1,3 +1,9 @@
+<div style="width: 100%;">
+  <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg">
+    <img src="animation.svg" style="width: 100%;">
+  </a>
+</div>
+
 <h3 align="center"></h3>
 
 <hr>
