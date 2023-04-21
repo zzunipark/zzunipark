@@ -41,9 +41,9 @@
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/zzunipark/github-stats-transparent'>
+<a href=''>
   
-![Stats Overview](https://raw.githubusercontent.com/zzunipark/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/zzunipark/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zzunipark=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![zzunipark's GitHub stats](https://github-readme-stats.vercel.app/api?zzunipark=anuraghazra&show_icons=true&theme=transparent)
   
 </a>
