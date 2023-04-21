@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; text-align: center;">
   <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg">
     <img src="animation.svg" style="width: 100%;">
   </a>
