@@ -1,6 +1,6 @@
 <div style="width: 30%;">
   <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg">
-    <img src="animation.svg" style="width: 100%;">
+    <img src="animation.svg" style="width: 30%;">
   </a>
 </div>
 
