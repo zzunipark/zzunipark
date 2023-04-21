@@ -47,3 +47,5 @@
 ![zzunipark's GitHub stats](https://github-readme-stats.vercel.app/api?zzunipark=anuraghazra&show_icons=true&theme=transparent)
   
 </a>
+
+<sub><sup>PC의 라이트 테마 및 Chrome, Firefox 환경에 최적화되어 있답니다! 모바일 및 기타 브라우저는 정상적으로 표기되지 않을 수 있어요! 😅</sup></sub>
