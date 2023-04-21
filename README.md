@@ -1,14 +1,8 @@
-<style>
-    .center {
-        display: flex;
-        justify-content: center;
-    }
-</style>
 <div style="width: 100%; text-align: center;">
   <a href="https://github.com/zzunipark/zzunipark/blame/main/animation.svg" target="_blank">
     <img src="animation.svg" style="width: 100%;">
   </a>
-  <div class="center">
+  <div style="display: flex; justify-content: center;">
     <sub><sup>위 애니메이션은 Chrome, Firefox 환경에 최적화되어 있답니다!</sup></sub>
   </div>
 </div>
