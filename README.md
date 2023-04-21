@@ -1,4 +1,8 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+<div style="width: 100%;">
+  <a href="https://github.com/zzunipark/zzunipark/blob/main/animation.svg">
+    <img src="welcome.svg" style="width: 100%;">
+  </a>
+</div>
 
 <h3 align="center"></h3>
 
