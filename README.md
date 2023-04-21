@@ -4,97 +4,44 @@
   </a>
 </div>
 
-<p align="center">Chrome & Firefox 환경에서 애니메이션이 잘 보인답니다!</p>
+# 
 
-<h3 align="center"></h3>
+<a href="https://www.instagram.com/zzunipark/">
+  <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="#contact-me-on-민준#9965">
+  <img align="left" alt="민준#9965" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
-<hr>
+<br />
+<br />
 
-<p align="center">
-    <Strong><br>About Me 😗</Strong><br>
-</p>
+뻘짓하는걸 좋아하지만, 또 가끔은 뻘짓이 이로울때가 있는, 풀 스택 개발자가 되고싶은 박민준입니다. 😙
 
-<p align="center">
-    - Always Sleepy<br>
-    - GSM 07<br>
-    - Full of passion, but idiot.<br>
-    <br>
-</p>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<hr>
+### 🧐 More About Me
+- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/">Gwangju Software Meister High School
+- &nbsp; ✏️ &nbsp; I'm currently learning CLang
+- &nbsp; 🌱 &nbsp; I'm interested in HTML and CSS
+- &nbsp; 🐥 &nbsp; I'd like to be an early bird
+- &nbsp; 🙌 &nbsp; Ask me about anything tech related, I feel happy when I help other people
+- &nbsp; 📔 &nbsp; Currently planning CLang project
 
-<p align="center">
-    <Strong>Things I'm learning 😎</Strong><br>
-</p>
+### 🛠️ Things I'm learning, interested
+<a href="https://clang.llvm.org" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/c/c.svg" alt="clang" height="42px"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a>
+<a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+  
+<br />
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=C&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    </a>
-    <br>
-</p>
 
-<hr>
-
-<p align="center">
-    <Strong>Things I'm using & operatable 🛠️</Strong><br>
-</p>
-
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Windows GUI-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white">
-    </a><br>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ubuntu GUI/CLI-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Debian CLI-A81D33?style=for-the-badge&logo=Debian&logoColor=white">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Raspbian GUI/CLI-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
-    </a>
-    <br>
-</p>
-
-<hr>
-
-<p align="center">
-    <Strong>Contact Me 🥸</Strong><br>
-</p>
-
-<p align="center">
-    <a href="https://www.instagram.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-    <a href="https://www.discord.com/" target="_blank">
-        <img src="https://img.shields.io/badge/민준샵9965-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-    </a>
-    <br>
-</p>
-
-<hr>
-
-<div align="center">
-    
-![zzunipark's github stats](https://github-readme-stats.vercel.app/api?username=zzunipark&show_icons=true)
+### 📊 Github Stats
+<a href='https://github.com/zzunipark/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/zzunipark/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/zzunipark/github-stats-transparent/output/generated/languages.svg)
