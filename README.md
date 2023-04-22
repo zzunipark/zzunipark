@@ -25,7 +25,7 @@
 - &nbsp; ✏️ &nbsp; I'm currently learning CLang
 - &nbsp; 🌱 &nbsp; I'm interested in HTML and CSS
 - &nbsp; 🐥 &nbsp; I'd like to be an early bird
-- &nbsp; 🙌 &nbsp; Ask me about anything tech related, I feel happy when I help other people
+- &nbsp; 🙌 &nbsp; Ask me about anything, I feel happy when I help other people
 - &nbsp; 📔 &nbsp; Currently planning CLang project
 
 ### 🛠️ Things I'm learning, interested
