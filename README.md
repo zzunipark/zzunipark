@@ -6,7 +6,7 @@
 
 # 
 
-<a href="https://www.instagram.com/zzunipark/" target="_blank">
+<a href="https://www.instagram.com/zzuni._m/" target="_blank">
   <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="#contact-me-on-민준#9965">
