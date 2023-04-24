@@ -43,9 +43,9 @@
 ### 📊 Github Stats
 <a href='#'>
 
-![zzunipark's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzunipark)
+![zzunipark's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzunipark&hide=issues,contribs)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzunipark&style=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzunipark&layout=compact)]
   
 </a>
   
