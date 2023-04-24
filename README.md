@@ -48,5 +48,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzunipark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </a>
+  
+### 🧑🏻‍💻 Working Projects
+<a href='#'>
+  
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=Do-You-Know-GIT)](https://github.com/zzunipark/Do-You-Know-GIT)
+  
+</a>
 
 <sub><sup>PC 환경에서의 라이트 테마 및 Chrome, Firefox 브라우저에 최적화되어 있답니다! 모바일 환경, 다크 테마 및 Chrome, Firefox 외 브라우저는 정상적으로 표기되지 않을 수 있어요! 😅</sup></sub>
