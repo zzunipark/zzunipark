@@ -18,7 +18,7 @@
 
 뻘짓하는걸 좋아하지만, 또 가끔은 뻘짓이 이로울때가 있는, 풀 스택 개발자가 되고싶은 박민준입니다. 😙
 
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZhNzA1MmZmMGU3ZDViYzNkMjAwYzU3N2E3NDQyMDcyMTk3ODA5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/4Dhhm7SlUE0uXQuKQA/giphy.gif" width="230">
 
 ### 🧐 More About Me
 - &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School
