@@ -21,7 +21,7 @@
 <img align='right' src="https://i.giphy.com/aocMBJMEMz0xhNAEGL.gif" width="230">
 
 ### 🧐 More About Me
-- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School
+- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School</a>
 - &nbsp; ✏️ &nbsp; I'm currently learning CLang
 - &nbsp; 🌱 &nbsp; I'm interested in HTML and CSS
 - &nbsp; 🐥 &nbsp; I'd like to be an early bird
