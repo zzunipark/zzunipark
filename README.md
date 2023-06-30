@@ -53,6 +53,7 @@
 <a href='#'>
   
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=Do-You-Know-GIT)](https://github.com/zzunipark/Do-You-Know-GIT)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=m2ri1&repo=ArduGotchi)](https://github.com/m2ri1/ArduGotchi)
   
 </a>
 
