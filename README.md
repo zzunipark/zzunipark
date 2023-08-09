@@ -22,11 +22,11 @@
 
 ### 🧐 More About Me
 - &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School</a>
-- &nbsp; ✏️ &nbsp; I'm currently learning CLang
-- &nbsp; 🌱 &nbsp; I'm interested in HTML and CSS
+- &nbsp; ✏️ &nbsp; I'm currently learning Java, Web Front
+- &nbsp; 🌱 &nbsp; I'm interested in Networking & Engineering
 - &nbsp; 🐥 &nbsp; I'd like to be an early bird
 - &nbsp; 🙌 &nbsp; Ask me about anything, I feel happy when I help other people
-- &nbsp; 🤹‍♂️ &nbsp; Working on Arduino Project
+- &nbsp; 🤹‍♂️ &nbsp; Working on Nothing...
 
 ### 🛠️ Things I'm learning, interested
 <a href="https://clang.llvm.org" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/c/c.svg" alt="clang" height="42px"/> </a>
