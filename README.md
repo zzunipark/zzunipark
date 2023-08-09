@@ -36,6 +36,8 @@
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" align="left" alt="git" height='42px'> </a>
+<a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/firebase/firebase.svg" align="left" alt="git" height='42px'> </a>
   
 <br>
 <br>
