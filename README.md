@@ -32,7 +32,7 @@
 - &nbsp; 🤹‍♂️ &nbsp; Working on Nothing...
 
 ### 🛠️ Things I'm learning, interested
-<a href="https://clang.llvm.org" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/c/c.svg" alt="clang" height="42px"/> </a>
+<a href="https://react.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a>
