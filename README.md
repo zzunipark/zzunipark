@@ -21,8 +21,6 @@
 
 <p>뻘짓하는걸 좋아하는 박민준입니다 🤗</p>
 
-<img align='right' src="https://i.giphy.com/aocMBJMEMz0xhNAEGL.gif" width="230">
-
 ### 🛠️ Things I'm learning, interested
 <a href="https://react.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
