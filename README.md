@@ -23,45 +23,18 @@
 
 <img align='right' src="https://i.giphy.com/aocMBJMEMz0xhNAEGL.gif" width="230">
 
-### 🧐 More About Me
-- &nbsp; 📚 &nbsp; Student at <a href="http://gsm.gen.hs.kr/" target="_blank">Gwangju Software Meister High School</a>
-- &nbsp; ✏️ &nbsp; I'm currently learning Java, Web Front
-- &nbsp; 🌱 &nbsp; I'm interested in Networking & Engineering
-- &nbsp; 🐥 &nbsp; I'd like to be an early bird
-- &nbsp; 🙌 &nbsp; Ask me about anything, I feel happy when I help other people
-- &nbsp; 🤹‍♂️ &nbsp; Working on Nothing...
-
 ### 🛠️ Things I'm learning, interested
 <a href="https://react.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" align="left" alt="git" height='42px'> </a>
-<a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/firebase/firebase.svg" align="left" alt="git" height='42px'> </a>
-  
+<a href="https://kubernetes.io" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px">
+
 <br>
 <br>
+<br>
 
-### 📊 Github Stats
-<a href='#'>
-
-![zzunipark's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzunipark&hide=issues,contribs)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzunipark&layout=compact)
-  
-</a>
-  
-### 🧑🏻‍💻 Working Projects
 <a href='#'>
   
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=Do-You-Know-GIT)](https://github.com/zzunipark/Do-You-Know-GIT)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=ArduGotchi)](https://github.com/m2ri1/ArduGotchi)
   
 </a>
-
-> **Warning**<br />
-> PC 환경에서의 라이트 테마 및 Chrome, Firefox 브라우저에 최적화되어 있습니다.
-> 모바일 환경, 다크 테마 및 Chrome, Firefox 외 브라우저는 정상적으로 표기되지 않을 수 있습니다.
-> 모바일 환경의 경우 가로모드를 이용해 보세요.
