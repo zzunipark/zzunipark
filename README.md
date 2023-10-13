@@ -34,5 +34,6 @@
 <a href='#'>
   
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=ArduGotchi)](https://github.com/m2ri1/ArduGotchi)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=zzuniMirror)](https://github.com/zzunipark/zzuniMirror)
   
 </a>
