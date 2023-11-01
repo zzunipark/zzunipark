@@ -26,6 +26,7 @@
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px">
+<a href="https://www.docker.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px">
 
 <br>
 <br>
