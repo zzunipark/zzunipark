@@ -114,6 +114,14 @@ const GlobalStyle = createGlobalStyle`
       url('./fonts/SpaceMono-Regular.ttf') format('ttf');
   }
 
+  @font-face {
+    font-family: 'Courier New';
+    font-weight: 400;
+    font-display: swap;
+    src: local('Courier-New-Regular'),
+      url('./fonts/Courier-New-Regular.ttf') format('ttf');
+  }
+
   * {
     padding: 0;
     margin: 0;
