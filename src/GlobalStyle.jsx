@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
@@ -6,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 900;
     font-display: swap;
     src: local('Blinker Black'),
-      url('./fonts//Blinker-Black.ttf') format('ttf');
+      url('./fonts/Blinker-Black.ttf') format('ttf');
   }
 
   @font-face {
@@ -14,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 800;
     font-display: swap;
     src: local('Blinker ExtraBold'),
-      url('./fonts//Blinker-ExtraBold.ttf') format('ttf');
+      url('./fonts/Blinker-ExtraBold.ttf') format('ttf');
   }
 
   @font-face {
@@ -22,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 700;
     font-display: swap;
     src: local('Blinker Bold'),
-      url('./fonts//Blinker-Bold.ttf') format('ttf');
+      url('./fonts/Blinker-Bold.ttf') format('ttf');
   }
 
   @font-face {
@@ -30,7 +31,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 600;
     font-display: swap;
     src: local('Blinker SemiBold'),
-      url('./fonts//Blinker-SemiBold.ttf') format('ttf');
+      url('./fonts/Blinker-SemiBold.ttf') format('ttf');
   }
 
   @font-face {
@@ -38,7 +39,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 500;
     font-display: swap;
     src: local('Blinker Medium'),
-      url('./fonts//Blinker-Medium.ttf') format('ttf');
+      url('./fonts/Blinker-Medium.ttf') format('ttf');
   }
 
   @font-face {
@@ -46,7 +47,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 400;
     font-display: swap;
     src: local('Blinker Regular'),
-      url('./fonts//Blinker-Regular.ttf') format('ttf');
+      url('./fonts/Blinker-Regular.ttf') format('ttf');
   }
 
   @font-face {
@@ -54,7 +55,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 300;
     font-display: swap;
     src: local('Blinker Light'),
-      url('./fonts//Blinker-Light.ttf') format('ttf');
+      url('./fonts/Blinker-Light.ttf') format('ttf');
   }
 
   @font-face {
@@ -62,7 +63,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 200;
     font-display: swap;
     src: local('Blinker ExtraLight'),
-      url('./fonts//Blinker-ExtraLight.ttf') format('ttf');
+      url('./fonts/Blinker-ExtraLight.ttf') format('ttf');
   }
 
   @font-face {
@@ -70,7 +71,47 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 100;
     font-display: swap;
     src: local('Blinker Thin'),
-      url('./fonts//Blinker-Thin.ttf') format('ttf');
+      url('./fonts/Blinker-Thin.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    font-display: swap;
+    src: local('Ubuntu-Bold'),
+      url('./fonts/Ubuntu-Bold.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Ubuntu';
+    font-weight: 500;
+    font-display: swap;
+    src: local('Ubuntu-Medium'),
+      url('./fonts/Ubuntu-Medium.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    font-display: swap;
+    src: local('Ubuntu-Regular'),
+      url('./fonts/Ubuntu-Regular.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    font-display: swap;
+    src: local('Ubuntu-Light'),
+      url('./fonts/Ubuntu-Light.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Space Mono';
+    font-weight: 400;
+    font-display: swap;
+    src: local('SpaceMono-Regular'),
+      url('./fonts/SpaceMono-Regular.ttf') format('ttf');
   }
 
   * {
