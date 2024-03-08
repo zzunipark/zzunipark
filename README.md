@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<p>뻘짓하는걸 좋아하는 박민준입니다 🤗</p>
+<p>추측이 아닌 예측과 확신으로 혁신을 만들어 나갑니다. 🔍</p>
 
 ### 🛠️ Things I'm learning, interested
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
