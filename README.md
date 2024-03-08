@@ -22,11 +22,11 @@
 <p>뻘짓하는걸 좋아하는 박민준입니다 🤗</p>
 
 ### 🛠️ Things I'm learning, interested
-<a href="https://react.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px">
 <a href="https://www.docker.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px">
+<a href="https://go.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg" alt="Docker" height="42px">
 
 <br>
 <br>
