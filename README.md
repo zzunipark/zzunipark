@@ -12,9 +12,6 @@
 <a href="#contact-me-on-민준#9965">
   <img align="left" alt="민준#9965" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
-<a href="https://velog.io/@zzunipark">
-  <img align="left" alt="zzunipark" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/velog_logo_icon_249278.png" />
-</a>
 
 <br />
 <br />
