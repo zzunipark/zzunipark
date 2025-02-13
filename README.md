@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/zzuni._m/" target="_blank">
   <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="#contact-me-on-민준#9965">
-  <img align="left" alt="민준#9965" width="22px" src="https://cdn.simpleicons.org/discord" />
+<a href="#contact-me-on-min._.jun">
+  <img align="left" alt="min._.jun" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 
 <br />
