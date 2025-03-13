@@ -12,6 +12,9 @@
 <a href="#contact-me-on-min._.jun">
   <img align="left" alt="min._.jun" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
+<a href="https://www.linkedin.com/in/zzunipark/">
+  <img align="left" alt="min._.jun" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" />
+</a>
 
 <br />
 <br />
