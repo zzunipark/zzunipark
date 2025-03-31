@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 
+#
 
 <a href="https://www.instagram.com/zzuni._m/" target="_blank">
   <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -15,6 +15,9 @@
 <a href="https://velog.io/@zzunipark">
   <img align="left" alt="zzunipark" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/velog_logo_icon_249278.png" />
 </a>
+<a href="https://www.linkedin.com/in/zzunipark/">
+  <img align="left" alt="zzunipark" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" />
+</a>
 
 <br />
 <br />
@@ -22,6 +25,7 @@
 <p>뻘짓하는걸 좋아하는 박민준입니다 🤗</p>
 
 ### 🛠️ Things I'm learning, interested
+
 <a href="https://react.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
@@ -34,7 +38,7 @@
 
 <a href='#'>
   
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=ArduGotchi)](https://github.com/m2ri1/ArduGotchi)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=zzuniMirror)](https://github.com/zzunipark/zzuniMirror)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=zzuniHomelab)](https://github.com/zzunipark/zzuniHomelab)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=zzunipark)](https://github.com/zzunipark/zzunipark)
   
 </a>
