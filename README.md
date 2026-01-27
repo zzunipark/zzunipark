@@ -22,7 +22,6 @@
 
 - **2025.06 ~ 2025.12**
     - Deputy Head at [@KRFOSS](https://github.com/KRFOSS)
-
 - **2025.11 ~ Present**
     - IT Infrastructure Engineer at [@PNTLINK Co., LTD.](https://www.pntlink.com/)
 
