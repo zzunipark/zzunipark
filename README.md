@@ -6,13 +6,13 @@
 
 #
 
-<a href="https://www.linkedin.com/in/zzunipark/" about="_blank">
+<a href="https://www.linkedin.com/in/zzunipark/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
-<a href="https://www.zzunipark.com" about="_blank">
+<a href="https://www.zzunipark.com" target="_blank">
   <img align="left" alt="Website" width="22px" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" />
 </a>
-<a href="mailto:me@zzunipark.com" about="_blank">
+<a href="mailto:me@zzunipark.com" target="_blank">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
 <br />
