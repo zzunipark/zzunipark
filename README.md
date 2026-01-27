@@ -4,37 +4,34 @@
   </a>
 </div>
 
-# 
+#
 
-<a href="https://www.instagram.com/zzuni._m/" target="_blank">
-  <img align="left" alt="zzuni._m" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="#contact-me-on-min._.jun">
-  <img align="left" alt="min._.jun" width="22px" src="https://cdn.simpleicons.org/discord" />
-</a>
 <a href="https://www.linkedin.com/in/zzunipark/">
-  <img align="left" alt="min._.jun" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
-
+<a href="https://www.zzunipark.com>">
+  <img align="left" alt="Website" width="22px" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" />
+</a>
+<a href="mailto:me@zzunipark.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+</a>
 <br />
 <br />
 
-<p>추측이 아닌 예측과 확신으로 혁신을 만들어 나갑니다. 🔍</p>
+<p>Innovation comes from prediction and conviction, not guesswork. 🔍</p>
 
-### 🛠️ Things I'm learning, interested
-<a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/raw/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> </a>
-<a href="https://kubernetes.io" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px">
-<a href="https://www.docker.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px">
-<a href="https://go.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg" alt="Docker" height="42px">
+- **2025.06 ~ 2025.12**
+    - Deputy Head at [@KRFOSS](https://github.com/KRFOSS)
 
-<br>
-<br>
-<br>
+- **2025.11 ~ Present**
+    - IT Infrastructure Engineer at [@PNTLINK Co., LTD.](https://www.pntlink.com/)
 
-<a href='#'>
-  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=ArduGotchi)](https://github.com/m2ri1/ArduGotchi)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=zzunipark&repo=zzuniMirror)](https://github.com/zzunipark/zzuniMirror)
-  
-</a>
+### Projects
+
+| Title                                         | Period  | Description                                      |
+| --------------------------------------------- | ------- | ------------------------------------------------ |
+| [zzuniHomelab](https://homelab.zzunipark.com) | 2023.01 | Enterprise-grade data center implemented at home |
+| [zzuniMirror](https://mirror.zzunipark.com)   | 2023.10 | Open-source package mirroring service            |
+| [Washer](https://washer-gsm.com)              | 2025.04 | Dormitory Washer/Dryer reservation service       |
+| [zzuniPark-Log](https://blog.zzunipark.com)   | 2025.05 | Project records and technical blog               |
+| [zzuniAPI](https://api.zzunipark.com)         | 2025.10 | Integrated API platform for various services     |
