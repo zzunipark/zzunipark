@@ -38,6 +38,6 @@
 | [FANFANTV](https://fanfantv.online)                   | 2023.06 ~ 2023.10 | Archive of entertaining moments with friends       | Archived    |
 | [ArduGotchi](https://github.com/zzunipark/ArduGotchi) | 2023.06 ~ 2023.07 | Arduino-based Tamagotchi Pixel Game                | Archived    |
 | [zzuniMirror](https://mirror.zzunipark.com)           | 2023.10 ~ Present | Open-source package mirroring service              | In Progress |
-| [Washer V1](https://washer-gsm.com)                   | 2025.04 ~ Present | Dormitory Washer/Dryer reservation service for GSM | In Progress |
+| [Washer V1](https://washer-gsm.com)                   | 2025.04 ~ 2025.10 | Dormitory Washer/Dryer reservation service for GSM | Maintaining |
 | [zzuniPark-Log](https://blog.zzunipark.com)           | 2025.05 ~ Present | Project records and technical blog                 | In Progress |
 | [zzuniAPI](https://api.zzunipark.com)                 | 2025.10 ~ Present | Integrated API platform for various services       | In Progress |
