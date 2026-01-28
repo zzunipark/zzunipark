@@ -41,3 +41,5 @@
 | [Washer V1](https://washer-gsm.com)                   | 2025.04 ~ 2025.10 | Dormitory Washer/Dryer reservation service for GSM | Maintaining |
 | [zzuniPark-Log](https://blog.zzunipark.com)           | 2025.05 ~ Present | Project records and technical blog                 | In Progress |
 | [zzuniAPI](https://api.zzunipark.com)                 | 2025.10 ~ Present | Integrated API platform for various services       | In Progress |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzunipark&label=Profile%20views&color=0e75b6&style=flat" alt="zzunipark" /> </p>
