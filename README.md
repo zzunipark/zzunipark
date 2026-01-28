@@ -20,12 +20,17 @@
 
 <p>Innovation comes from prediction and conviction, not guesswork. 🔍</p>
 
+- **2023.03 ~ 2026.01**
+    - Student, **[Gwangju Software Meister High School](https://gsm.gen.hs.kr/)**
+        - Studied software engineering, focusing on infrastructure and systems
+        - Exposed to global industry practices through Asia Tech x Singapore 2023
+        - Engaged in international technical exchange with Tokyo Metropolitan College of Industrial Technology
 - **2025.06 ~ 2025.12**
-    - Deputy Head at [@KRFOSS](https://github.com/KRFOSS) Organization
+    - Deputy Head at **[@KRFOSS](https://github.com/KRFOSS)**
         - Leading korea-based distributed mirror network project
         - Contributing to Kali Linux localization and documentation efforts
 - **2025.11 ~ Present**
-    - IT Infrastructure Engineer at [@PNTLINK Co., LTD.](https://www.pntlink.com/)
+    - IT Infrastructure Engineer at **[@PNTLINK Co., LTD.](https://www.pntlink.com/)**
         - Hands-on experience with xFusion enterprise server integration and hardware validation
         - Supported tier-1 domestic cloud provider infrastructure deployments in production environments.
         - Assembled and tested industrial PC systems using ASUS IoT platforms
