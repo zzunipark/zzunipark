@@ -21,16 +21,23 @@
 <p>Innovation comes from prediction and conviction, not guesswork. 🔍</p>
 
 - **2025.06 ~ 2025.12**
-    - Deputy Head at [@KRFOSS](https://github.com/KRFOSS)
+    - Deputy Head at [@KRFOSS](https://github.com/KRFOSS) Organization
+        - Leading korea-based distributed mirror network project
+        - Contributing to Kali Linux localization and documentation efforts
 - **2025.11 ~ Present**
     - IT Infrastructure Engineer at [@PNTLINK Co., LTD.](https://www.pntlink.com/)
+        - Hands-on experience with xFusion enterprise server integration and hardware validation
+        - Supported tier-1 domestic cloud provider infrastructure deployments in production environments.
+        - Assembled and tested industrial PC systems using ASUS IoT platforms
 
 ### Projects
 
-| Title                                         | Period  | Description                                      |
-| --------------------------------------------- | ------- | ------------------------------------------------ |
-| [zzuniHomelab](https://homelab.zzunipark.com) | 2023.01 | Enterprise-grade data center implemented at home |
-| [zzuniMirror](https://mirror.zzunipark.com)   | 2023.10 | Open-source package mirroring service            |
-| [Washer](https://washer-gsm.com)              | 2025.04 | Dormitory Washer/Dryer reservation service       |
-| [zzuniPark-Log](https://blog.zzunipark.com)   | 2025.05 | Project records and technical blog               |
-| [zzuniAPI](https://api.zzunipark.com)         | 2025.10 | Integrated API platform for various services     |
+| Title                                                 | Period            | Description                                        | Status      |
+| ----------------------------------------------------- | ----------------- | -------------------------------------------------- | ----------- |
+| [zzuniHomelab](https://homelab.zzunipark.com)         | 2023.01 ~ Present | Enterprise-grade data center implemented at home   | In Progress |
+| [FANFANTV](https://fanfantv.online)                   | 2023.06 ~ 2023.10 | Archive of entertaining moments with friends       | Archived    |
+| [ArduGotchi](https://github.com/zzunipark/ArduGotchi) | 2023.06 ~ 2023.07 | Arduino-based Tamagotchi Pixel Game                | Archived    |
+| [zzuniMirror](https://mirror.zzunipark.com)           | 2023.10 ~ Present | Open-source package mirroring service              | In Progress |
+| [Washer V1](https://washer-gsm.com)                   | 2025.04 ~ Present | Dormitory Washer/Dryer reservation service for GSM | In Progress |
+| [zzuniPark-Log](https://blog.zzunipark.com)           | 2025.05 ~ Present | Project records and technical blog                 | In Progress |
+| [zzuniAPI](https://api.zzunipark.com)                 | 2025.10 ~ Present | Integrated API platform for various services       | In Progress |
