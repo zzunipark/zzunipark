@@ -28,8 +28,9 @@
 - **2025.11 ~ Present**
     - IT Infrastructure Engineer at **[@PNTLINK Co., LTD.](https://www.pntlink.com/)**
         - Hands-on experience with xFusion enterprise server integration and hardware validation
-        - Supported tier-1 domestic cloud provider infrastructure deployments in production environments
-        - Assembled and tested industrial PC systems using ASUS IoT platforms
+        - Experience configuring and validating ASRockRack server platforms based on the latest Intel Xeon and AMD EPYC architectures
+        - Supported infrastructure deployment projects for production environments at a tier-1 domestic cloud provider
+        - Configured and tested industrial PC systems using ASUS IoT platforms
 
 ### Projects
 
