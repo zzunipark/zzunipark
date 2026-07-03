@@ -22,7 +22,7 @@ Innovation comes from prediction and conviction, not guesswork. 🔍
 
 - **2025.11 ~ Present**
     - IT Infrastructure Engineer at **[@PNTLINK Co., LTD.](https://www.pntlink.com/)**
-      - Supported the deployment, installation, and hardware validation of xFusion server platforms for **[NAVER Cloud Platform](https://www.ncloud.com/)** production infrastructure
+      - Supported the deployment, installation, and hardware validation of xFusion server platforms for **[NAVER Cloud Platform](https://www.navercloudcorp.com/)** production infrastructure
       - Integrated and validated enterprise server platforms from xFusion, ASRockRack, and ASUS based on Intel Xeon and AMD EPYC architectures
       - Configured, tested, and verified industrial PC systems built on ASUS IoT platforms
 
